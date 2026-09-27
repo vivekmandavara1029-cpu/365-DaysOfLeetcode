@@ -42,3 +42,6 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 
 - **LeetCode Profile:** [ @vivek mandavara ](https://leetcode.com)
 - **LinkedIn:** [vivek mandavara ](https://linkedin.com)
+
+## ⭐ Support
+If this repository helped you improve your coding logic, please consider giving it a Star! It helps others discover this project.
