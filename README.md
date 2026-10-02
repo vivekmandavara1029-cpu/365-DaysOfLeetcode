@@ -9,24 +9,25 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 <!-- Replace the username below with your actual LeetCode username -->
 [![LeetCode Stats](https://vercel.net)](https://leetcode.com)
 
-- **📅 Start Date:** October 1, 2026 
-- **🏁 Target End Date:** September 30, 2027
-- **📈 Current Progress:** { 0 } (Updating Daily)
+- **📅 Start Date:** October 2, 2026 
+- **🏁 Target End Date:** october 1, 2027
+- **📈 Current Progress:** { 1 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
 - **Primary Language:** [ C++ 🚀]
 - **Core Focus:** Data Structures, Algorithms, Dynamic Programming, System Design Patterns.
 
-
 ## 📂 Repository Structure
 
 The solutions are organized by daily logs to keep the directory clean and easy to navigate:
 
+* *258(add digit).cpp*: Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
 
 ## 📝 Daily Log & Milestone Index
 
 | Day | Problem ID | Problem Name | Difficulty | Solution | Key Concept |
+ 001 |  258 | add digit | easy | [code](./) |         |  
 
 
 *(This table will be updated daily as I progress through the challenge!)*
