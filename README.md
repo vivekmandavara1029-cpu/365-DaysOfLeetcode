@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 3 } (Updating Daily)
+- **📈 Current Progress:** { 4 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -25,6 +25,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *258(add digit).cpp*: Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
 * *2520(count the digit__).cpp*: Given an integer num, return the number of digits in num that divide num.
 * *202 (happy number).cpp*: A happy number is a positive integer that eventually reaches 1 when you repeatedly replace it with the sum of the squares of its digits
+* *2652 (sum multiples).cpp*: Given a positive integer n, find the sum of all integers in the range [1, n] inclusive that are divisible by 3, 5, or 7.
 
 ## 📝 Daily Log & Milestone Index
 
@@ -32,6 +33,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  001 |  258 | add digit | easy | [code](./) |         |  
  002 |  2520 | count the digit that divide a number | easy | [code](./) |        | 
  003 |  202 |  happy number | easy | [code](./) |       |
+ 004 | 2652 | sum multiples | easy | [code](./) |       |
 
 
 *(This table will be updated daily as I progress through the challenge!)*
