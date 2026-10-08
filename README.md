@@ -33,13 +33,13 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 ## 📝 Daily Log & Milestone Index
 
 | Day | Problem ID | Problem Name | Difficulty | Solution | Key Concept |
- 001 |  258 | add digit | easy | [code](./) |         |  
- 002 |  2520 | count the digit that divide a number | easy | [code](./) |        | 
- 003 |  202 |  happy number | easy | [code](./) |       |
- 004 | 2652 | sum multiples | easy | [code](./) |       |
- 005 | 2798 | number of employees who meet the target | easy | [code](./) |       |
- 006 | 2535 |difference between elements sum and digit sum of an aaray | easy | [code](./) |        |
- 007 | 633 |  sum of square numbers | medium | [code](./) |        |
+ * 001 |  258 | add digit | easy | [code](./) |         |  
+ * 002 |  2520 | count the digit that divide a number | easy | [code](./) |        | 
+ * 003 |  202 |  happy number | easy | [code](./) |       |
+ * 004 | 2652 | sum multiples | easy | [code](./) |       |
+ * 005 | 2798 | number of employees who meet the target | easy | [code](./) |       |
+ * 006 | 2535 |difference between elements sum and digit sum of an aaray | easy | [code](./) |        |
+ * 007 | 633 |  sum of square numbers | medium | [code](./) |        |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
