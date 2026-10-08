@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 6 } (Updating Daily)
+- **📈 Current Progress:** { 7 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -28,6 +28,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *2652 (sum multiples).cpp*: Given a positive integer n, find the sum of all integers in the range [1, n] inclusive that are divisible by 3, 5, or 7.
 * *2798(number of employees__).cpp*:https://leetcode.com/problems/number-of-employees-who-met-the-target/description/
 * *2535(diff blw elements__).cpp*:https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/
+* *633(sum of square numbers).cpp*: Given a non-negative integer c, decide whether there're two integers a and b such that a2 + b2 = c.
 
 ## 📝 Daily Log & Milestone Index
 
@@ -37,8 +38,8 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  003 |  202 |  happy number | easy | [code](./) |       |
  004 | 2652 | sum multiples | easy | [code](./) |       |
  005 | 2798 | number of employees who meet the target | easy | [code](./) |       |
- 006 | 2535 |difference between elements sum and digit sum of an aaray || easy | [code](./) |        |
-
+ 006 | 2535 |difference between elements sum and digit sum of an aaray | easy | [code](./) |        |
+ 007 | 633 |  sum of square numbers | medium | [code](./) |        |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
