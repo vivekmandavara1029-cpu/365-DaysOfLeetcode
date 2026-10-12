@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 10 } (Updating Daily)
+- **📈 Current Progress:** { 11 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -32,6 +32,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *66(plus one).cpp*:https://leetcode.com/problems/plus-one/description/
 * *3024(types of triangle).cpp*:https://leetcode.com/problems/type-of-triangle/description/.
 * *2239(find closest number to zero).cpp*:https://leetcode.com/problems/find-closest-number-to-zero/description/
+* *1832(check if a __).cpp*:https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -46,6 +47,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 008 |  66 | plus one | easy | [code](./) |       |
  * 009 | 3024 | types of triangle | easy | [code](./) |       |
  * 010 | 2239 | find closest number to zero |  easy | [code](./) |       |
+ * 011 | 1832 | check if a sentence is pangram |  easy | [code](./) |       |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
