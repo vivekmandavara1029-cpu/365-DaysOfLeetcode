@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 12 } (Updating Daily)
+- **📈 Current Progress:** { 13 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -34,6 +34,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *2239(find closest number to zero).cpp*:https://leetcode.com/problems/find-closest-number-to-zero/description/
 * *1832(check if a __).cpp*:https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
 * *387(1st unique charc__).cpp*:https://leetcode.com/problems/first-unique-character-in-a-string/description/
+* *2114(maximum number__).cpp*:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -50,6 +51,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 010 | 2239 | find closest number to zero |  easy | [code](./) |       |
  * 011 | 1832 | check if a sentence is pangram |  easy | [code](./) |       |
  * 012 | 387 | first unique character in a string | easy | [code](./) |       |
+ * 013 | 2114 | maximum number of words found in sentence | easy | [code](./) |       |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
