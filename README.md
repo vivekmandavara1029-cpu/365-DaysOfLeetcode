@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 14 } (Updating Daily)
+- **📈 Current Progress:** { 15 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -36,6 +36,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *387(1st unique charc__).cpp*:https://leetcode.com/problems/first-unique-character-in-a-string/description/
 * *2114(maximum number__).cpp*:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/
 * *2108(find first palindromic string_).cpp*:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+* *2942(find words containing character).cpp*:https://leetcode.com/problems/find-words-containing-character/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -54,6 +55,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 012 | 387 | first unique character in a string | easy | [code](./) |       |
  * 013 | 2114 | maximum number of words found in sentence | easy | [code](./) |       |
  * 014 | 2108 | find first palindromic string in the array | easy | [code](./) |       |
+ * 015 | 2942 | find words containing character | easy | [code](./) |       |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
