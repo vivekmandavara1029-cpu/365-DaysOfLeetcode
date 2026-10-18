@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 16 } (Updating Daily)
+- **📈 Current Progress:** { 17 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -38,6 +38,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *2108(find first palindromic string_).cpp*:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 * *2942(find words containing character).cpp*:https://leetcode.com/problems/find-words-containing-character/description/
 * *1550(three consecutive odd).cpp*:https://leetcode.com/problems/three-consecutive-odds/description/
+* *657(robot return to origin).cpp*:https://leetcode.com/problems/robot-return-to-origin/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -58,6 +59,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 014 | 2108 | find first palindromic string in the array | easy | [code](./) |       |
  * 015 | 2942 | find words containing character | easy | [code](./) |       |
  * 016 | 1550 | three consecutive odds |  easy | [code](./) |       |
+ * 017 | 0657 | robot return to origin | easy | [code](./) |       |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
