@@ -39,10 +39,11 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *2942(find words containing character).cpp*:https://leetcode.com/problems/find-words-containing-character/description/
 * *1550(three consecutive odd).cpp*:https://leetcode.com/problems/three-consecutive-odds/description/
 * *657(robot return to origin).cpp*:https://leetcode.com/problems/robot-return-to-origin/description/
+* *2974(minimum number game).cpp*:https://leetcode.com/problems/minimum-number-game/description/
 
 ## 📝 Daily Log & Milestone Index
 
-| Day | Problem ID | Problem Name | Difficulty | Solution | Key Concept |
+   Day | Problem ID | Problem Name | Difficulty | Solution | Key Concept |
  * 001 |  258 | add digit | easy | [code](./) |         |  
  * 002 | 2520 | count the digit that divide a number | easy | [code](./) |        | 
  * 003 |  202 |  happy number | easy | [code](./) |       |
@@ -60,6 +61,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 015 | 2942 | find words containing character | easy | [code](./) |       |
  * 016 | 1550 | three consecutive odds |  easy | [code](./) |       |
  * 017 | 0657 | robot return to origin | easy | [code](./) |       |
+ * 018 | 2974 | minimum number game | easy | [code](./) |       |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
