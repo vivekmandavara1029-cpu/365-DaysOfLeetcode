@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 20 } (Updating Daily)
+- **📈 Current Progress:** { 21 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -42,6 +42,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *2974(minimum number game).cpp*:https://leetcode.com/problems/minimum-number-game/description/
 * *3019(number of changing keys).cpp*:https://leetcode.com/problems/number-of-changing-keys/description/
 * *977(squares of a sorted array).cpp*:https://leetcode.com/problems/squares-of-a-sorted-array/description/
+* *3232(find if digit__).cpp*:https://leetcode.com/problems/find-if-digit-game-can-be-won/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -65,7 +66,8 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 017 | 0657 | robot return to origin | easy | [code](./) |       |
  * 018 | 2974 | minimum number game | easy | [code](./) |       |
  * 019 | 3019 | number of chnging keys | easy | [code](./) |       |
- * 020 | 0977 | squares of a sorted array |  easy | [code](./) |       |
+ * 020 | 0977 | squares of a sorted array | easy | [code](./) |       |
+ * 021 | 3232 | find if digit game can be won | easy | [code](./) |       |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
