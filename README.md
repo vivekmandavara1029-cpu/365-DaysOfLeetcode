@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 23 } (Updating Daily)
+- **📈 Current Progress:** { 24 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -45,6 +45,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *3232(find if digit__).cpp*:https://leetcode.com/problems/find-if-digit-game-can-be-won/description/
 * *268(missing number).cpp*:https://leetcode.com/problems/missing-number/description/
 * *41(first missing positive).cpp*:https://leetcode.com/problems/first-missing-positive/
+* *448(find all numbers__).cpp*:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -70,8 +71,9 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 019 | 3019 | number of chnging keys | easy | [code](./) |       
  * 020 | 0977 | squares of a sorted array | easy | [code](./) |       
  * 021 | 3232 | find if digit game can be won | easy | [code](./) |       
- * 022 | 0268 | missing number | easy | [code](./) |       
- * 023 | 0041 | first missing positive | hard | [code](./) | 
+ * 022 | 0268 | missing number | easy | [code](./) |   
+ * 023 | 0041 | first missing positive | hard | [code](./) |
+ * 024 | 0448| find all numbers disappeared in an array | easy | [code](./) |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
