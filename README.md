@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 26 } (Updating Daily)
+- **📈 Current Progress:** { 27 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -48,6 +48,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *448(find all numbers__).cpp*:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 * *2965(find missing and repeated values).cpp*:https://leetcode.com/problems/find-missing-and-repeated-values/description/
 * *860(lemonade change).cpp*:https://leetcode.com/problems/lemonade-change/description/
+* *169(majority element).cpp*:https://leetcode.com/problems/majority-element/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -78,6 +79,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 024 | 0448| find all numbers disappeared in an array | easy | [code](./) |
  * 025 | 2965 | find missing and repeated values | easy | [code](./) |
  * 026 | 0860 | lemonade change | easy | [code](./) |
+ * 027 | 0169 | majority element | easy | [code](./) |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
