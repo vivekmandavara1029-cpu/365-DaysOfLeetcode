@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 27 } (Updating Daily)
+- **📈 Current Progress:** { 28 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -49,6 +49,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *2965(find missing and repeated values).cpp*:https://leetcode.com/problems/find-missing-and-repeated-values/description/
 * *860(lemonade change).cpp*:https://leetcode.com/problems/lemonade-change/description/
 * *169(majority element).cpp*:https://leetcode.com/problems/majority-element/description/
+* *1299(replace element with__).cpp*:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -80,6 +81,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 025 | 2965 | find missing and repeated values | easy | [code](./) |
  * 026 | 0860 | lemonade change | easy | [code](./) |
  * 027 | 0169 | majority element | easy | [code](./) |
+ * 028 | 1299 | replace element with greatest element of right side |  easy | [code](./) |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
