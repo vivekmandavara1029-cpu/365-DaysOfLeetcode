@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 31 } (Updating Daily)
+- **📈 Current Progress:** { 32} (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -53,6 +53,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *217(contains duplicate).cpp*:https://leetcode.com/problems/contains-duplicate/description/
 * *1768(merge string alternately).cpp*:https://leetcode.com/problems/merge-strings-alternately/description/
 * *88(merge sorted array).cpp*:https://leetcode.com/problems/merge-sorted-array/description/
+* *724(find pivot index).cpp*:https://leetcode.com/problems/find-pivot-index/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -88,6 +89,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 029 | 0217 | contains duplicate |easy | [code](./) |
  * 030 | 1768 | merge string alternately | easy | [code](./) |
  * 031 | 0088 | merge sorted array | easy | [code](./) |
+ * 032 | 0724 | find pivot index | easy | [code](./) |
 
 *(This table will be updated daily as I progress through the challenge!)*
 
