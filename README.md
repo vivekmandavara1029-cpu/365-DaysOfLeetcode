@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 34} (Updating Daily)
+- **📈 Current Progress:** { 35 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -56,6 +56,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *724(find pivot index).cpp*:https://leetcode.com/problems/find-pivot-index/description/
 * *14(longest common prefix).cpp*:https://leetcode.com/problems/longest-common-prefix/description/
 * *540(single element in__).cpp*:https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+* *287(find the duplicate number).cpp*:https://leetcode.com/problems/find-the-duplicate-number/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -93,7 +94,8 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 031 | 0088 | merge sorted array | easy | [code](./) |
  * 032 | 0724 | find pivot index | easy | [code](./) |
  * 033 | 0014 | longest common prefix | easy | [code](./) |
- * 034 | 0540 | single element in a sorted array |  easy | [code](./) |
+ * 034 | 0540 | single element in a sorted array | med | [code](./) |
+ * 035 | 0287 | find the duplicate number | med | [code](./) |
    
 *(This table will be updated daily as I progress through the challenge!)*
 
