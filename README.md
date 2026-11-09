@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 37 } (Updating Daily)
+- **📈 Current Progress:** { 39 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -59,6 +59,8 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *287(find the duplicate number).cpp*:https://leetcode.com/problems/find-the-duplicate-number/description/
 * *2154(keep multiplying__).cpp*:https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/
 * *283(move zeroes).cpp*:https://leetcode.com/problems/move-zeroes/description/
+* *26(remove duplicate__).cpp*:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+* *27(remove element).cpp*:https://leetcode.com/problems/remove-element/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -100,6 +102,8 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 035 | 0287 | find the duplicate number | med | [code](./) |
  * 036 | 2154 | keep multiplying found values by two | easy | [code](./) |
  * 037 | 0283 | move zeroes | easy | [code](./) |
+ * 038 | 0026 | remove duplicate from sorted array | easy | [code](./) |
+ * 039 | 0027 | remove element | easy | [code](./) |
    
 *(This table will be updated daily as I progress through the challenge!)*
 
