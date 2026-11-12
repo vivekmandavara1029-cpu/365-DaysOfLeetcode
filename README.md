@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 41 } (Updating Daily)
+- **📈 Current Progress:** { 42 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -63,6 +63,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *27(remove element).cpp*:https://leetcode.com/problems/remove-element/description/
 * *1592(rearrange spaces__).cpp*:https://leetcode.com/problems/rearrange-spaces-between-words/description/
 * *2574(left and right__).cpp*:https://leetcode.com/problems/left-and-right-sum-differences/description/
+* *28(find the index__).cpp*:https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -108,6 +109,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 039 | 0027 | remove element | easy | [code](./) |
  * 040 | 1592 | rearrenge spaces between words | easy | [code](./) |
  * 041 | 2574 | left and right sum differences | easy | [code](./) |
+ * 028 | 0028 | find the index of the first ouccurrence of a string | easy | [code](./) |
    
 *(This table will be updated daily as I progress through the challenge!)*
 
