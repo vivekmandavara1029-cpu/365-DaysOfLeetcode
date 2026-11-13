@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 42 } (Updating Daily)
+- **📈 Current Progress:** { 43 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -64,6 +64,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *1592(rearrange spaces__).cpp*:https://leetcode.com/problems/rearrange-spaces-between-words/description/
 * *2574(left and right__).cpp*:https://leetcode.com/problems/left-and-right-sum-differences/description/
 * *28(find the index__).cpp*:https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+* *415(add strings).cpp*:https://leetcode.com/problems/add-strings/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -91,7 +92,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 021 | 3232 | find if digit game can be won | easy | [code](./) |       
  * 022 | 0268 | missing number | easy | [code](./) |   
  * 023 | 0041 | first missing positive | hard | [code](./) |
- * 024 | 0448| find all numbers disappeared in an array | easy | [code](./) |
+ * 024 | 0448 | find all numbers disappeared in an array | easy | [code](./) |
  * 025 | 2965 | find missing and repeated values | easy | [code](./) |
  * 026 | 0860 | lemonade change | easy | [code](./) |
  * 027 | 0169 | majority element | easy | [code](./) |
@@ -109,7 +110,8 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 039 | 0027 | remove element | easy | [code](./) |
  * 040 | 1592 | rearrenge spaces between words | easy | [code](./) |
  * 041 | 2574 | left and right sum differences | easy | [code](./) |
- * 028 | 0028 | find the index of the first ouccurrence of a string | easy | [code](./) |
+ * 042 | 0028 | find the index of the first ouccurrence of a string | easy | [code](./) |
+ * 043 | 0415 | add strings | easy | [code](./) |
    
 *(This table will be updated daily as I progress through the challenge!)*
 
