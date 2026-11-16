@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 45 } (Updating Daily)
+- **📈 Current Progress:** { 46 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -67,6 +67,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *415(add strings).cpp*:https://leetcode.com/problems/add-strings/description/
 * *58(length of last word).cpp*:https://leetcode.com/problems/length-of-last-word/description/
 * *125(valid palindrome).cpp*:https://leetcode.com/problems/valid-palindrome/description/
+* *205(isomorphic strings).cpp*:https://leetcode.com/problems/isomorphic-strings/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -116,6 +117,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 043 | 0415 | add strings | easy | [code](./) |
  * 044 | 0058 | length of last word | easy | [code](./) |
  * 045 | 0125 | valid palindrome | easy | [code](./) |
+ * 046 | 0205 | isomorphic strings | easy | [code](./) |
    
 *(This table will be updated daily as I progress through the challenge!)*
 
