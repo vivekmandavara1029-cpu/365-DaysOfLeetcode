@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 47 } (Updating Daily)
+- **📈 Current Progress:** { 48 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -69,6 +69,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *125(valid palindrome).cpp*:https://leetcode.com/problems/valid-palindrome/description/
 * *205(isomorphic strings).cpp*:https://leetcode.com/problems/isomorphic-strings/description/
 * *383(ransom Note).cpp*:https://leetcode.com/problems/ransom-note/description/
+* *389(find the difference).cpp*:https://leetcode.com/problems/find-the-difference/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -120,6 +121,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 045 | 0125 | valid palindrome | easy | [code](./) |
  * 046 | 0205 | isomorphic strings | easy | [code](./) |
  * 047 | 0383 | ransom Note | easy | [code](./) |
+ * 048 | 0389 | find the difference | easy | [code](./) |
    
 *(This table will be updated daily as I progress through the challenge!)*
 
