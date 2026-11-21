@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 50 } (Updating Daily)
+- **📈 Current Progress:** { 51 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -72,6 +72,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *389(find the difference).cpp*:https://leetcode.com/problems/find-the-difference/description/
 * *412(Fizz Buzz).cpp*:https://leetcode.com/problems/fizz-buzz/description/
 * *345(reverse vowels of  string).cpp*:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+* *434(number of segments in a string).cpp*:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -126,6 +127,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 048 | 0389 | find the difference | easy | [code](./) |
  * 049 | 0412 | Fizz Buzz | easy | [code](./) |
  * 050 | 0345 | reverse string of a vowels | easy | [code](./) |
+ * 051 | 0434 | number of segments in a string | easy | [code](./) |
    
 *(This table will be updated daily as I progress through the challenge!)*
 
