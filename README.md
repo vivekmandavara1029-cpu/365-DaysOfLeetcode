@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 54 } (Updating Daily)
+- **📈 Current Progress:** { 56 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -76,6 +76,8 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *392(Is Subsequence).cpp*:https://leetcode.com/problems/is-subsequence/description/
 * *151(reverse words in a string).cpp*:https://leetcode.com/problems/reverse-words-in-a-string/description/
 * *344(Reverse String).cpp*:https://leetcode.com/problems/reverse-string/description/
+* *242(valid anagram).cpp*:https://leetcode.com/problems/valid-anagram/description/
+* *520(detect capital).cpp*:https://leetcode.com/problems/detect-capital/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -134,6 +136,8 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 052 | 0392 | Is Subsequence | easy | [code](./) |
  * 053 | 0151 | reverse words in a string | med |  [code](./) |
  * 054 | 0344 |Reverse String |  easy | [code](./) |
+ * 055 | 0242 | valid anagram | easy | [code](./) |
+ * 056 | 0520 | detect capital | easy | [code](./) |
    
 *(This table will be updated daily as I progress through the challenge!)*
 
