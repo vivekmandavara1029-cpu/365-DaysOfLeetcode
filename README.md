@@ -11,7 +11,7 @@ Welcome to my daily coding streak repository! This project tracks my commitment 
 
 - **📅 Start Date:** October 2, 2026 
 - **🏁 Target End Date:** october 1, 2027
-- **📈 Current Progress:** { 56 } (Updating Daily)
+- **📈 Current Progress:** { 57 } (Updating Daily)
 
 ## 🛠️ Tech Stack & Languages
 
@@ -78,6 +78,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
 * *344(Reverse String).cpp*:https://leetcode.com/problems/reverse-string/description/
 * *242(valid anagram).cpp*:https://leetcode.com/problems/valid-anagram/description/
 * *520(detect capital).cpp*:https://leetcode.com/problems/detect-capital/description/
+* *551(student attendance record 1).cpp*:https://leetcode.com/problems/student-attendance-record-i/description/
 
 ## 📝 Daily Log & Milestone Index
 
@@ -138,6 +139,7 @@ The solutions are organized by daily logs to keep the directory clean and easy t
  * 054 | 0344 |Reverse String |  easy | [code](./) |
  * 055 | 0242 | valid anagram | easy | [code](./) |
  * 056 | 0520 | detect capital | easy | [code](./) |
+ * 057 | 0551 | student attendance record 1 | easy | [code](./) |
    
 *(This table will be updated daily as I progress through the challenge!)*
 
